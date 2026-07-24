@@ -77,7 +77,9 @@ intervention in Make.com.*
 
 ## 🎬 Demo
 
-*Video walkthrough — coming soon (recorded alongside Portfolio 1).*
+[Watch the full walkthrough](https://youtu.be/qfSY-7hqgRw) — from a new
+HubSpot deal, through the automated fan-out, to sales alerted on Slack, the
+pipeline logged to Sheets, and the prospect emailed automatically.
 
 ---
 
